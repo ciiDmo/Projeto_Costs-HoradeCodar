@@ -2,38 +2,45 @@
   "projects": [
     {
       "name": "Meu projeto 1",
-      "budget": "7000",
+      "budget": "20500",
       "category": {
         "id": "1",
         "name": "Infra"
       },
-      "costs": 4700,
+      "costs": 10115,
       "services": [
         {
-          "name": "serv 1",
-          "costs": "500",
-          "description": "teste",
-          "id": "807de903-a661-434a-b4c0-8d3f9d4ca95a"
+          "name": "Equipamentos",
+          "costs": "7568",
+          "description": "Compra de equipamentos",
+          "id": "bc3b0f8c-41fb-4259-8b8a-04aeebda8fd7"
         },
         {
-          "name": "serv 2",
-          "costs": "4200",
-          "description": "teste",
-          "id": "a0df20db-97c2-4115-b488-9e499e808830"
+          "name": "Teste dos equipamentos",
+          "costs": "2547",
+          "description": "Realização do testes de todos os equipamentos, averiguando integridade",
+          "id": "53e633ab-3f6c-49e3-9757-dc7939de49a9"
         }
       ],
       "id": 1
     },
     {
-      "name": "Meu projeto 3",
-      "budget": "9000",
+      "name": "Meu projeto 2",
+      "budget": "15700",
       "category": {
         "id": "3",
         "name": "Design"
       },
-      "costs": 0,
-      "services": [],
-      "id": 3
+      "costs": 8562,
+      "services": [
+        {
+          "name": "Designer",
+          "costs": "8562",
+          "description": "Contratação de um designer",
+          "id": "6f66f315-4fe0-4a11-a8c7-ad310b64b149"
+        }
+      ],
+      "id": 2
     }
   ],
   "categories": [
